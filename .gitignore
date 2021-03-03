@@ -1,0 +1,7 @@
+deepspeech-venv/**
+audio/**
+._audio
+audio-0.9.3.tar.gz
+deepspeech-0.9.3-models.pbmm
+deepspeech-0.9.3-models.scorer
+speech.wav
